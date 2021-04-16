@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Computers",
+      "price": "650000",
+      "quantity": "1300",
+      "selected": true,
+      "available": true,
+      "id": 1
+    },
+    {
+      "name": "Smartphones",
+      "price": "150000",
+      "quantity": "400",
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "Tablets",
+      "price": "200000",
+      "quantity": "1896",
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "name": "Cameras",
+      "price": "3000",
+      "quantity": "789",
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "Joystiks",
+      "price": "2500",
+      "quantity": "100",
+      "selected": true,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
